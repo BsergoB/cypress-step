@@ -16,7 +16,7 @@ Open Cypress Test Runer by executing "node_modules/.bin/cypress open" in the pro
 
 ### Description
 
-- Project contains simple test that will perform a login to your local Step instance using the Cypress framework. The test extended with browsing the Step tabs (Plans, Keywords, Parameters, etc.) and making sure that the tab is loaded (lookup for an element on the page) before moving to the next one.
+Project contains simple test that will perform a login to your local Step instance using the Cypress framework. The test extended with browsing the Step tabs (Plans, Keywords, Parameters, etc.) and making sure that the tab is loaded (lookup for an element on the page) before moving to the next one.
 
 ### Test structure
 
